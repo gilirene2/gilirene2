@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 Currently Working On:<br>Exploring the realms of Cybersecurity and Information Technology<br><br>👥 Looking to Collaborate On:<br>Projects related to software testing and cybersecurity<br><br>🤝 Seeking Help With:<br>Exploring AI-driven data analysis techniques or building machine learning models for security applications<br><br>🌱 Currently Learning:<br>Mastering cybersecurity techniques and ethical hacking methodologies<br>Exploring advanced concepts in threat intelligence<br><br>💬 Ask Me About:<br>My journey in automation testing and cybersecurity
 
 
