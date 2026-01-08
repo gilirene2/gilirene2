@@ -19,7 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=gilirene2&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## 🎓 Certifications
-![CC](https://img.shields.io/badge/CISSP-Certified-green)
+![CC](https://img.shields.io/badge/CC-Certified-green)
 ![CISM](https://img.shields.io/badge/CISM-Certified-blue)
 ![CySA+](https://img.shields.io/badge/CySA%2B-Certified-red)
 ![PenTest+](https://img.shields.io/badge/PenTest%2B-Certified-orange)
