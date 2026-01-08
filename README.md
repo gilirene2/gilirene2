@@ -23,6 +23,6 @@
 ![CISM](https://img.shields.io/badge/CISM-Certified-blue)
 ![CySA+](https://img.shields.io/badge/CySA%2B-Certified-red)
 ![PenTest+](https://img.shields.io/badge/PenTest%2B-Certified-orange)
-![Security+](https://img.shields.io/badge/SecurityX-Certified-yellow)
+![Security+](https://img.shields.io/badge/Security+-Certified-yellow)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
